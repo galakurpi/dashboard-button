@@ -16,7 +16,7 @@ function App() {
   const api = useApi();
   const SUPPORT_EMAIL = "support@leparfum.ai";
   const BASE_URL =
-    "https://staging.scentwork.leparfum.ai/pre-scentwork/dashboard";
+    "https://scentwork.leparfum.ai/pre-scentwork/dashboard";
 
   let childJourneyId = null;
 
